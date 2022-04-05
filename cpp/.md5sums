@@ -1,0 +1,11 @@
+154f3bd3ab9fd2dd477c326a8901c8f3  main.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+639a0a860dee80b6e04e3a89c33c158c  msg_consumer_base.h
+cb1a49e1c8ef6374f1106f57e417b321  msg_consumer.h
+8b0718097ea52c85fc110b4551974ff3  msg_consumer.cpp
+9b3a73e8afdd7f9d3ecd3a541f6cb707  configure.ac
+eaaab27f9025db228ee09ccd937ef4d7  Makefile.am
+f3df2b00a6955aeec70a397fa4a6daf3  struct_props.h
+82ef4604cef8521d78a198add2b45b3e  Makefile.am.ide
+0eab963caf757e05ff7698a11554cf25  msg_consumer_base.cpp
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
